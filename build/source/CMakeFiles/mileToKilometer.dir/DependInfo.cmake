@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/xiao/Desktop/programmiersprachen-aufgabe-1/source/helloworld.cpp" "/Users/xiao/Desktop/programmiersprachen-aufgabe-1/build/source/CMakeFiles/helloworld.dir/helloworld.cpp.o"
+  "/Users/xiao/Desktop/programmiersprachen-aufgabe-1/source/mileToKilometer.cpp" "/Users/xiao/Desktop/programmiersprachen-aufgabe-1/build/source/CMakeFiles/mileToKilometer.dir/mileToKilometer.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

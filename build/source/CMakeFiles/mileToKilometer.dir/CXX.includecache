@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/xiao/Desktop/programmiersprachen-aufgabe-1/source/helloworld.cpp
+/Users/xiao/Desktop/programmiersprachen-aufgabe-1/source/mileToKilometer.cpp
 iostream
+-
+string
 -
 
